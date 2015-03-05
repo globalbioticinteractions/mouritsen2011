@@ -1,0 +1,15 @@
+{ "citation": "Kim N. Mouritsen, Robert Poulin, John P. McLaughlin and David W. Thieltges. 2011. Food web including metazoan parasites for an intertidal ecosystem in New Zealand. Ecology 92:2006.  http://dx.doi.org/10.1890/11-0371.1",
+  "doi": "http://dx.doi.org/10.1890/11-0371.1",
+  "format": "hechinger",
+  "delimiter": ",",
+  "resources": {
+    "nodes": "http://esapubs.org/archive/ecol/E092/173/Otago_Data_Nodes.csv",
+    "links": "http://esapubs.org/archive/ecol/E092/173/Otago_Data_Links.csv"
+  },
+  "location": {
+    "locale": "Otago Harbour, New Zealand",
+    "localeId": "http://www.geonames.org/6212196",
+    "latitude": -45.83838,
+    "longitude": 170.5901
+  }
+}
