@@ -3,8 +3,8 @@
   "format": "hechinger",
   "delimiter": ",",
   "resources": {
-    "nodes": "http://esapubs.org/archive/ecol/E092/173/Otago_Data_Nodes.csv",
-    "links": "http://esapubs.org/archive/ecol/E092/173/Otago_Data_Links.csv"
+    "nodes": "Otago_Data_Nodes.csv",
+    "links": "Otago_Data_Links.csv"
   },
   "location": {
     "locale": "Otago Harbour, New Zealand",
