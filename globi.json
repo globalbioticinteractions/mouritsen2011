@@ -1,5 +1,5 @@
-{ "citation": "Kim N. Mouritsen, Robert Poulin, John P. McLaughlin and David W. Thieltges. 2011. Food web including metazoan parasites for an intertidal ecosystem in New Zealand. Ecology 92:2006.  http://dx.doi.org/10.1890/11-0371.1",
-  "doi": "http://dx.doi.org/10.1890/11-0371.1",
+{ "citation": "Kim N. Mouritsen, Robert Poulin, John P. McLaughlin and David W. Thieltges. 2011. Food web including metazoan parasites for an intertidal ecosystem in New Zealand. Ecology 92:2006.  https://doi.org/10.1890/11-0371.1",
+  "doi": "https://doi.org/10.1890/11-0371.1",
   "format": "hechinger",
   "delimiter": ",",
   "resources": {
